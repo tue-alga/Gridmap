@@ -1,0 +1,1 @@
+Assigns a color to each site using the location of the site.

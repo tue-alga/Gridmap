@@ -1,0 +1,375 @@
+Abbreviation from generating tile maps	hexX	hexY	hexX+hexY	full label	Mapping to ID from ipe file	
+cor	0	0	0	Cornwall	719	
+SH	2	0	2	South hams	352	
+PLY	1	1	2	PlyMouth	364	
+WD	2	1	3	West Devon	27	
+TEI	3	1	4	Teignbridge	26	
+TOR	4	1	5	Torbay	340	
+PUR	6	1	7	Purbeck	30	
+GOS	8	1	9	Gosport	66	
+HAV	10	1	11	Havant	68	
+ARU	12	1	13	Arun	185	
+WOR	13	1	14	Worthing	190	
+ADU	14	1	15	Adur	186	
+BRI	15	1	16	Brighton and Hove	337	
+LEW	16	1	17	Lewe	36	
+EAS	18	1	19	Eastbourne	39	
+TOR	1	2	3	Torridge	717	
+ND	2	2	4	North Devon	24	
+EXE	3	2	5	Exeter	29	
+ED	4	2	6	East Devon	25	
+Wey	5	2	7	Weymouth and Portland	35	
+Poo	6	2	8	Poole	317	
+BOU	7	2	9	Bournemouth	274	
+SOU	8	2	10	Southhampton	289	
+FAR	9	2	11	Fareham	67	
+POR	10	2	12	Portsmouth	363	
+CHI	11	2	13	Chichester	187	
+WAV	12	2	14	Waverley	169	
+HOR	13	2	15	Horsham	189	
+CRA	14	2	16	Crawley	191	
+MID	15	2	17	Mid Sussex	188	
+TAN	16	2	18	Tandridge	170	
+WEA	17	2	19	Wealden	38	
+TUN	18	2	20	Tunbridge West	80	
+HAS	19	2	21	Hastings	40	
+SHE	20	2	22	Shepway	81	
+MID	3	3	6	Mid Devon	28	
+TAU	4	3	7	Taunton Deane	151	
+WD	5	3	8	West dorset	32	
+ED	6	3	9	East dorset	33	
+CHR	7	3	10	Christchurch	31	
+EAS	8	3	11	Eastleigh	61	
+EH	9	3	12	East Hampshire	62	
+RUS	10	3	13	Rushmoore	69	
+GUI	11	3	14	Guildford	174	
+ELM	12	3	15	elmbridge	177	
+MOL	13	3	16	Mole Valley	176	
+EPS	14	3	17	Epsom and Ewel	179	
+REI	15	3	18	Reigate and Banstead	175	
+CRO	16	3	19	Croydon	199	
+SEV	17	3	20	Sevenoaks	82	
+TON	18	3	21	Tonbridge and malling	83	
+ROT	19	3	22	Rother	37	
+ASH	20	3	23	Ashford	85	
+DOV	21	3	24	Dover	87	
+WS	3	4	7	West Somerset	149	
+SED	4	4	8	Sedgemoor	153	
+SS	5	4	9	South Somerset	152	
+ND	6	4	10	North dorset	34	
+NEW	7	4	11	New Forest	60	
+BAS	8	4	12	Basingstoke and Deane	59	
+WIN	9	4	13	Winchester	63	
+SUR	10	4	14	Surrey Heath	172	
+WOK	11	4	15	Woking	171	
+SPE	12	4	16	Spelthorne	178	
+KIN	13	4	17	Kingston upon Thames	198	
+MER	14	4	18	Merton	218	
+SUT	15	4	19	Sutton	216	
+LEW	16	4	20	Lewisham	211	
+BRO	17	4	21	Bromley	200	
+DAR	18	4	22	Dartford	90	
+MAI	19	4	23	Maidstone	88	
+SWA	20	4	24	Swale	89	
+CAN	21	4	25	Canterbury	86	
+NS	4	5	9	Bath and North East Somerset	737	
+MEN	5	5	10	Mendip	150	
+WIL	6	5	11	Wiltshire	345	
+TES	7	5	12	Test Valley	64	
+REA	8	5	13	Reading	319	
+HAR	9	5	14	Hart	65	
+BRA	10	5	15	Bracknell Forst	275	
+RUN	11	5	16	Runnymede	173	
+HOU	12	5	17	Hounslow	201	
+RIC	13	5	18	Richmond upon Thames	217	
+WAN	14	5	19	Wandsworth	219	
+LAM	15	5	20	Lambeth	208	
+SOU	16	5	21	Southwark	209	
+GRE	17	5	22	Greenwich	210	
+BEX	18	5	23	Bexley	212	
+GRA	19	5	24	Gravesham	91	
+MED	20	5	25	Medway	307	
+THA	21	5	26	Thanet	84	
+CAR	4	6	10	Cardiff	354	
+BAT	5	6	11	Bath and North East Somerset	269	
+SG	6	6	12	South Gloucestershire	331	
+SWI	7	6	13	Swindon	335	
+WB	8	6	14	West Berkshire	342	
+WOK	9	6	15	Wokingham	347	
+WIN	10	6	16	Windsor and Maidenhead	346	
+SLO	11	6	17	Slough	329	
+HIL	12	6	18	Hillingdon	204	
+HAM	13	6	19	Hammersmith and Fulhams	220	
+KEN	14	6	20	Kensington and Chelsea	221	
+WES	15	6	21	Westminister	222	
+CIT	16	6	22	Cities of london	NAN
+TOW	17	6	23	Tower hamelest	224	
+BAR	18	6	24	Barking and Dagenham	229	
+THU	19	6	25	Thurroc	338	
+CAS	20	6	26	Castle point	52	
+SOU	21	6	27	Southend-on-sea	330	
+BRI	2	7	9	Bridgeend	315	
+VAL	3	7	10	Vale of Glamorgan	276	
+NEW	4	7	11	Newport	278	
+BRI	5	7	12	Bristol, city of	283	
+STR	6	7	13	Stroud	55	
+COT	7	7	14	Cotswold	54	
+VAL	8	7	15	Vale of White Horse	144	
+S O	9	7	16	South Ofxfordshire	145	
+WYC	10	7	17	Wycombe	1	
+SB	11	7	18	South Bucks	2	
+HAR	12	7	19	Harrow	205	
+EAL	13	7	20	Ealing	202	
+CAM	14	7	21	Camden	223	
+ISL	15	7	22	Islington	225	
+HAC	16	7	23	Hackney	226	
+NEW	17	7	24	Newham	228	
+HAV	18	7	25	Havering	203	
+BAS	19	7	26	Basildon	51	
+Mal	20	7	27	Maldon	48	
+ROC	21	7	28	Rochford	42	
+SWA	2	8	10	Swansea	267	
+CAE	3	8	11	Caerphilly	277	
+TOR	4	8	12	Torfaen	339	
+FOR	5	8	13	Forest of Dean	53	
+GLO	6	8	14	Gloucester	57	
+TEW	7	8	15	Tewkesbury	56	
+WOR	8	8	16	West OxfortShire	147	
+OXF	9	8	17	Oxford	148	
+AYL	10	8	18	Aylesbury Value	4	
+CHI	11	8	19	Chiltern	3	
+THR	12	8	20	Three rivers	70	
+BRE	13	8	21	Brent	206	
+BAR	14	8	22	Barnet	207	
+HAR	15	8	23	Haringey	227	
+WAL	16	8	24	Waltham Forest	214	
+RED	17	8	25	Redridge	215	
+Bre	18	8	26	Brentwood	41	
+CHE	19	8	27	Chelmsford	46	
+Ten	20	8	28	Tendring	44	
+PEM	1	9	10	Pembrokeshire	711	
+NEA	2	9	11	Neath Port Talbot	279	
+RHO	3	9	12	Rhondda Cynon Taf	322	
+BLA	4	9	13	Blaenau Gwent	273	
+MON	5	9	14	Monmouthshire	356	
+WYC	6	9	15	Wychavon	194	
+CHE	7	9	16	Cheltenham	58	
+STR	8	9	17	Stratford-on-avon	183	
+CHE	9	9	18	Cherwell	146	
+SN	10	9	19	South northampton	123	
+DAC	11	9	20	Dacorum	73	
+WAT	12	9	21	Watford	78	
+HER	13	9	22	Hertsmere	71	
+WEL	14	9	23	Welwyn Hatfield	76	
+ENF	15	9	24	Enfield	213	
+BRO	16	9	25	Broxbourne	72	
+EPP	17	9	26	Epping Forest	43	
+BRA	18	9	27	Braintree	49	
+COL	19	9	28	Cochester	47	
+Suf	20	9	29	suffolk Coastal	164	
+CAR	2	10	12	Carmarthenshirre	327	
+MER	3	10	13	Merthyr Tydfil	308	
+HER	4	10	14	Herefordshire, county of	294	
+MAL	5	10	15	Malvern	192	
+WOR	6	10	16	Worchester	196	
+RED	7	10	17	Redditch	197	
+SOL	8	10	18	Solihull	256	
+WAR	9	10	19	Warwick	182	
+DAV	10	10	20	Daventry	125	
+MIL	11	10	21	Milton Keynes	311	
+LUT	12	10	22	Luton	306	
+ST	13	10	23	ST alban	75	
+STE	14	10	24	Stevenage	79	
+EH	15	10	25	East hertfodshire	74	
+HAR	16	10	26	Harlow	50	
+UTT	17	10	27	Uttlesford	45	
+BAB	18	10	28	Babergh	163	
+IPS	19	10	29	Ipswisch	168	
+CER	2	11	13	Ceredigion	355	
+POW	3	11	14	Powys	318	
+SHR	4	11	15	Shropshire	325	
+WYR	5	11	16	Wyre forest	193	
+DUD	6	11	17	Dudley	240	
+BRO	7	11	18	Bromsgrove	195	
+BIR	8	11	19	Birminghan	232	
+COV	9	11	20	Coventry	238	
+RUG	10	11	21	Rugby	181	
+NOR	11	11	22	Northampton	128	
+WEL	12	11	23	Willingborough	126	
+CEN	13	11	24	Central bedfordshirt	280	
+BED	14	11	25	Bedfort	270	
+NH	15	11	26	North Hertfordshire	77	
+SCA	16	11	27	South cambridgeshire	6	
+ST	17	11	28	St Edmundsburg	165	
+MID	18	11	29	Mid Suffolk	167	
+WAV	19	11	30	Waveney	162	
+GWY	3	12	15	Gwynedd	709	
+WRE	4	12	16	Wrexham	348	
+SS	5	12	17	South Stafford	155	
+WOL	6	12	18	Wolverhampton	237	
+SAN	7	12	19	Sandwell	253	
+NW	8	12	20	North Warwickshire	180	
+NUN	9	12	21	Nuneaton and Bedworth	184	
+BLA	10	12	22	Blaby	108	
+HAR	11	12	23	Harborough	107	
+KET	12	12	24	Kettering	127	
+EN	13	12	25	East Northhamptonshire	124	
+HUN	14	12	26	Huntingdonshire	8	
+CAM	15	12	27	Cambridge	9	
+FOR	16	12	28	Forest Heath	166	
+SN	17	12	29	South Norfold	119	
+NOR	18	12	30	Norwich	122	
+GRE	19	12	31	Great Yarmouth	118	
+CON	3	13	16	Conwy	292	
+DEN	4	13	17	Denbighshire	326	
+TEL	5	13	18	Telford and Wekin	336	
+STA	6	13	19	Stafford	158	
+WAL	7	13	20	Walsall	264	
+LIC	8	13	21	Lichfield	156	
+TAM	9	13	22	tamworth	161	
+HIN	10	13	23	Hinckley	104	
+LEI	11	13	24	Leicseter	286	
+OAD	12	13	25	Oadby and Wigston	110	
+COR	13	13	26	Corby	129	
+PET	14	13	27	Peterborough	288	
+EC	15	13	28	East Cambridge	7	
+KIN	16	13	29	King's lynn	120	
+BRE	17	13	30	Breckland	121	
+FLI	4	14	18	Flintshire	328	
+CHE	5	14	19	Cheshire West and Chester	282	
+New	6	14	20	Newcastle-under-lyme	157	
+CAN	7	14	21	Cannock Chase	160	
+ES	8	14	22	East Staffordshire	159	
+SD	9	14	23	South Derbyshire	17	
+NW	10	14	24	North West LeicesterShire	105	
+CHA	11	14	25	Charnwood	109	
+RUS	12	14	26	Rushcliffe	137	
+RUT	13	14	27	Rutland	323	
+SK	14	14	28	South Kestev	112	
+FEN	15	14	29	Fenland	5	
+NN	16	14	30	North norfold	351	
+BRO	17	14	31	Broadland	350	
+WIR	4	15	19	Wirral	266	
+HAL	5	15	20	Halton	303	
+CHE	6	15	21	Cheshire east	281	
+STO	7	15	22	Stoke-on-Trent	290	
+STA	8	15	23	Staffordshire Moorlands	154	
+DER	9	15	24	Derby	284	
+ERE	10	15	25	Erewash	18	
+NOT	11	15	26	Nottingham	287	
+GED	12	15	27	Gedling	138	
+MEL	13	15	28	Melton	106	
+BOS	14	15	29	Boston	114	
+SH	15	15	30	South Holland	113	
+LIV	5	16	21	Liverpool	245	
+WAR	6	16	22	Warrington	341	
+STO	7	16	23	Stockport	258	
+DER	8	16	24	Derbyshire Dales	22	
+AMB	9	16	25	Amber vally	20	
+ASH	10	16	26	Ashield	139	
+BRO	11	16	27	Broxtowe	142	
+NEW	12	16	28	Newark and Sherboow	140	
+NK	13	16	29	North Kestev	115	
+KNO	5	17	22	Knowsley	243	
+SAL	6	17	23	Salford	252	
+TRA	7	17	24	Trafford	262	
+HG	8	17	25	High Peak	16	
+NEA	9	17	26	North East Derbyshire	19	
+BOL	10	17	27	Bolsover	21	
+MAN	11	17	28	Mansfield	143	
+LIN	12	17	29	Lincoln	117	
+EL	13	17	30	Easy Lindsey	116	
+ST	5	18	23	St helens	259	
+WIG	6	18	24	Wigan	265	
+MAN	7	18	25	Manchester	246	
+TAM	8	18	26	Tameside	261	
+SHE	9	18	27	Sheffield	255	
+CHE	10	18	28	Chesterfield	23	
+BAS	11	18	29	Bassetlaw	141	
+WL	12	18	30	West Lindsey	111	
+NE	13	18	31	North East lincolnshire	312	
+SEF	5	19	24	Sefton	254	
+BOL	6	19	25	Bolton	233	
+BUR	7	19	26	Bury	235	
+OLD	8	19	27	Oldham	249	
+BAR	9	19	28	Barnsley	231	
+WAK	10	19	29	Wakefield	263	
+ROT	11	19	30	Rotherham	251	
+NL	12	19	31	North lincolnshire	314	
+WL	5	20	25	West Lancashire	92	
+BLA	6	20	26	Blackburn with Darwen	271	
+ROC	7	20	27	Rochdale	250	
+CAL	8	20	28	Calderdale	236	
+KIR	9	20	29	Kirklees	242	
+SEL	10	20	30	Selby	131	
+Don	11	20	31	Doncaster	239	
+KIN	12	20	32	Kingston upon Hull, city of	285	
+CHO	5	21	26	Chorley	94	
+HYN	6	21	27	Hyndburn	102	
+ROS	7	21	28	Rossen	96	
+BRA	8	21	29	Bradford	234	
+LEE	9	21	30	Leeds	244	
+YOR	10	21	31	York	349	
+ER	11	21	32	East riding of Yorkshire	300	
+FYl	4	22	26	Fylde	97	
+SR	5	22	27	South Ribble	95	
+RIB	6	22	28	Ribble Valley	101	
+BUR	7	22	29	Burnley	103	
+PEN	8	22	30	Pendle	100	
+HAR	9	22	31	Harrogate	134	
+SCA	10	22	32	scarborough	130	
+RYE	11	22	33	Ryedale	135	
+WYR	4	23	27	Wyre	99	
+PRE	5	23	28	Preston	98	
+RIC	6	23	29	Richmondshire	133	
+CRA	7	23	30	Craven	132	
+STO	8	23	31	Stockton-on-tees	334	
+HAM	9	23	32	Hambleton	136	
+RED	10	23	33	Redcare and cleveland	320	
+BAR	2	24	26	Barrow-in-Furnes	15	
+Bla	3	24	27	Blackpool	272	
+SL	4	24	28	South Lakeland	12	
+LAN	5	24	29	Lancaster	93	
+Cou	6	24	30	County Durham	293	
+DAR	7	24	31	Darlington	295	
+HAR	8	24	32	Hartlepool	304	
+MID	9	24	33	Middlesbrough	309	
+DUM	2	25	27	Dumfried and Galloway	362	
+Cop	3	25	28	Copeland	10	
+CAR	4	25	29	Carlisle	11	
+EDE	5	25	30	Eden	14	
+Gat	6	25	31	Gateshea	241	
+SUN	7	25	32	Sunderland	260	
+SA	1	26	27	South Ayrshire	365	
+EA	2	26	28	East Ayrshire	297	
+ALL	3	26	29	Allerdale	13	
+SCO	4	26	30	Scottisch Borders	324	
+NEW	5	26	31	Newcastle upon Tyne	247	
+NT	6	26	32	North Tyneside	248	
+ST	7	26	33	South Tyneside	257	
+NA	1	27	28	North Ayrshire	702	
+WL	2	27	29	West Lothian	344	
+SL	3	27	30	South Lanarkshire	332	
+MID	4	27	31	Midlothian	310	
+NOR	5	27	32	Northumberland	739	
+ER	1	28	29	East Renfrewshire	299	
+GLA	2	28	30	Glasgow	302	
+CIT	3	28	31	City of edinburg	360	
+EL	4	28	32	East lothian	361	
+INV	0	29	29	Inverclyde	305	
+REN	1	29	30	Renfreshire	321	
+ED	2	29	31	East dunbartonshire	298	
+NL	3	29	32	North Lanarkshire	313	
+ARG	0	30	30	Argyll and Bute	633	
+WD	1	30	31	West DunbartonShire	343	
+CLA	2	30	32	Clackmannanshire	291	
+FAL	3	30	33	Falkirk	301	
+Fif	4	30	34	Fife	742	
+STI	0	31	31	Stirling	333	
+PER	1	31	32	Perth and Kinross	316	
+ANG	2	31	33	Angus	268	
+DUN	3	31	34	Dundee City	296	
+HIG	1	32	33	Highland	557	
+ABE	2	32	34	AberdeenShire	358	
+ABE	3	32	35	Aberdeen city	359	
+MOR	1	33	34	Moray	357	
