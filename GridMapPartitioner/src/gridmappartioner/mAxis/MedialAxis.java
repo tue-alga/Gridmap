@@ -95,7 +95,8 @@ public class MedialAxis {
         String polygonLocation = polygonToCin();
 
         //execute process and get data
-        String fileLocation = "D:\\vcpkg\\installed\\x64-windows\\CGAL-5.0.2\\examples\\Segment_Delaunay_graph_2\\Release\\sdg-voronoi-edges.exe";
+        String fileLocation = "external/sdg-voronoi-edges.exe";
+
 
         List<String> command = Arrays.asList(fileLocation, polygonLocation);
         System.out.println("starting cgal");

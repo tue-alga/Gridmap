@@ -20,8 +20,14 @@ using namespace std;
 
 int main(int argc, char** argv)
 {
+    //cout << "testing" << endl;
     string fileName = argv[1];
+    //for (int i = 0; i < argc; ++i)
+    //{
+        //cout << argv[i] << endl;
+    //}
 
+  //ifstream ifs("data/sites3.cin");
   ifstream ifs(fileName);
   assert( ifs );
 
@@ -35,6 +41,7 @@ int main(int argc, char** argv)
 
   // validate the diagram
   assert( sdg.is_valid(true, 1) );
+  //cout << endl << endl;
 
   /*
   // now walk through the non-infinite edges of the segment Delaunay
@@ -75,7 +82,7 @@ int main(int argc, char** argv)
                                 e.first->vertex( sdg.cw(e.second) ),
                                 e.first->vertex( e.second ),
                                 sdg.tds().mirror_vertex(e.first, e.second) };
-
+    //cout << "--- Edge " << k << " ---" << endl;
 
 
     typename CGAL::Segment_Delaunay_graph_traits_2<Kernel>::Line_2              l;
@@ -85,11 +92,20 @@ int main(int argc, char** argv)
 
     CGAL::Object o = sdg.primal(e);
 
+    //cout << "start of primal" << endl;
 
-    if (CGAL::assign(l, o))   cout << "l " << l << endl;
-    if (CGAL::assign(s, o))   cout << "s " << s << endl;
-    if (CGAL::assign(r, o))   cout << "r " << r << endl;
-    if (CGAL::assign(ps, o))  cout << "p "  << ps.p1 << " " << ps.p2 << " " << ps.center() << " " << ps.line() << endl;
+    //if (CGAL::assign(l, o))   cout << "Line " << l << endl;
+    //if (CGAL::assign(s, o))   cout << "segment " << s << endl;
+    //if (CGAL::assign(r, o))   cout << "Ray " << r << endl;
+    //if (CGAL::assign(ps, o))  cout << "parabola from"  << ps.p1 << " to " << ps.p2 << " defined by " << ps.center() << " " << ps.line() << endl;
+
+    //cout << "end of primal" << endl;
+
+
+    if (CGAL::assign(l, o))   cout << std::setprecision(10) << "l " << l << endl;
+    if (CGAL::assign(s, o))   cout << std::setprecision(10) << "s " << s << endl;
+    if (CGAL::assign(r, o))   cout << std::setprecision(10) << "r " << r << endl;
+    if (CGAL::assign(ps, o))  cout << std::setprecision(10) << "p "  << ps.p1 << " " << ps.p2 << " " << ps.center() << " " << ps.line() << endl;
 
     for (int i = 0; i < 4; i++) {
       // check if the vertex is the vertex at infinity; if yes, print
@@ -102,6 +118,7 @@ int main(int argc, char** argv)
         //cout << vid[i] << ": " << v[i]->site() << endl;
       }
     }
+    //cout << endl;
   }
 
   return 0;
