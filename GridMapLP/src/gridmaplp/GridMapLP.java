@@ -103,7 +103,7 @@ public class GridMapLP {
         outputOption.setRequired(true);
         options.addOption(outputOption);
 
-        Option tileOption = new Option("hex", "hex", false, "tile type. Fill");
+        Option tileOption = new Option("hex", "hex", false, "Use hex tiles");
         tileOption.setRequired(false);
         options.addOption(tileOption);
 

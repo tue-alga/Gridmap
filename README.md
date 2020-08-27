@@ -4,7 +4,7 @@ Contains the code and data for generating gridmaps for complex data.
 
 
 GridMapCombiner contains code to run the entire pipeline in one go.
-It first runs GridMapPartitioner to take the input polygon and parittion it into pieces.
+It first runs GridMapPartitioner to take the input polygon and partition it into pieces.
 Afterwards mosaic-maps is run to give each piece the correct amount of tiles.
 Finally GridMapLP is run to assign input site to each tile.
 
