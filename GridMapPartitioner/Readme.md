@@ -1,8 +1,9 @@
-Contains the code to partition an input map into parts.
+Contains the code to partition an input map into parts. GridmapPartitioner contains the main method.
+Code uses CPLEX (external/sdg-voronoi-edges.exe) to generate the medial axis required for generating the candidate cuts.
 
 
+After compilation, the code can be run via the command line with the following parameters:
 
-		
 -i: Input map location
 -s: Site file location
 -o: Output file location
