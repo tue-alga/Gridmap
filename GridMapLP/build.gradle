@@ -1,0 +1,11 @@
+apply plugin: 'java'
+
+repositories {
+    jcenter()
+}
+
+dependencies {
+    compile 'commons-cli:commons-cli:1.4'
+    compile 'com.quantego:clp-java:1.16.10'
+}
+

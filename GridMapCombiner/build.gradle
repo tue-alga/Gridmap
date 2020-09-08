@@ -1,0 +1,23 @@
+apply plugin: 'java'
+
+repositories {
+    jcenter()
+}
+
+dependencies {
+    compile 'commons-cli:commons-cli:1.4'
+    compile files('lib/GeometryCore.jar')
+}
+
+jar {
+    manifest {
+        attributes 'Main-Class': 'gridmap.GridmapCombiner'
+    }
+    from {
+        // include dependencies
+        configurations.compile.collect {
+            it.isDirectory() ? it : zipTree(it)
+        }
+    }
+}
+

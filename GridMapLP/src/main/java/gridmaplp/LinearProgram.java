@@ -97,7 +97,7 @@ public class LinearProgram {
             for (CLPVariable v : variableList) {
                 lhs.put(v, 1.0);
             }
-            model.addConstraint(lhs, CLPConstraint.TYPE.EQ, 1);
+            model.addConstraint(lhs, CLPConstraint.TYPE.EQ, 1.0);
         }
     }
 
@@ -111,7 +111,7 @@ public class LinearProgram {
             for (CLPVariable v : variableList) {
                 lhs.put(v, 1.0);
             }
-            model.addConstraint(lhs, CLPConstraint.TYPE.LEQ, 1);
+            model.addConstraint(lhs, CLPConstraint.TYPE.LEQ, 1.0);
         }
     }
 
